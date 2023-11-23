@@ -22,11 +22,7 @@ const HomePage = () => {
   return (
     <div className="homepage">
       <div className="homepage__header">
-        <img
-          className="home__logo"
-          src="../../public/images/logo.png"
-          alt="logo"
-        />
+        <img className="home__logo" src="../../images/logo.png" alt="logo" />
         <h2 className="home__title">¡Hi Trainer!</h2>
         <p className="homepage__p">
           To start, please give me your trainer name
