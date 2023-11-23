@@ -82,7 +82,7 @@ const PokeInfoId = () => {
               <h2 className="title__types">Abilities</h2>
               <ul className="ul__types">
                 {pokemonId?.abilities.map((ability) => (
-                  <li className="li__types" key={ability.ability.url}>
+                  <li className="li__abilitie" key={ability.ability.url}>
                     {ability.ability.name}
                   </li>
                 ))}
