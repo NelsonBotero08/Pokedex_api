@@ -22,7 +22,7 @@ const PokeInfoId = () => {
             <section className="section_red--pokedexpage">
               <img
                 className="section__img--pokedexpage"
-                src="../../public/images/PokedexEd.png"
+                src="../../images/PokedexEd.png"
                 alt=""
               />
             </section>
